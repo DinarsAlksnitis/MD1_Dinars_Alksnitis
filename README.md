@@ -52,6 +52,14 @@ Cenas balstītas uz konkurentu cenām Latvijā (Korres Greek Yoghurt – 10,90 E
 | Dienas peļņa | 405,21 EUR |
 | Atmaksāšanās periods | 20 dienas |
 
+### Dienas peļņa atkarībā no cenas
+
+![Dienas peļņa atkarībā no cenas](grafiki/pelna_no_cenas.png)
+
+### Produkta atmaksāšanās
+
+![Produkta atmaksāšanās](grafiki/atmaksasanas.png)
+
 ## Avoti
 
 - [Notino.lv – Korres Greek Yoghurt](https://www.notino.lv/korres/greek-yoghurt-probiotic-foaming-cream-cleanser-attirosas-kremveida-putas-ar-probiotikiem/)
