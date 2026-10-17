@@ -65,3 +65,7 @@ Cenas balstītas uz konkurentu cenām Latvijā (Korres Greek Yoghurt – 10,90 E
 - [Notino.lv – Korres Greek Yoghurt](https://www.notino.lv/korres/greek-yoghurt-probiotic-foaming-cream-cleanser-attirosas-kremveida-putas-ar-probiotikiem/)
 - [Drogas.lv – MOSSA Glow Cocktail](https://www.drogas.lv/lv/adai/sejai/sejas-tirisanai/mossa-glow-cocktail-attirosas-putas-150ml/p/BP_479771)
 - [Notino.lv – Banila Co. Clean It Zero Original](https://www.notino.lv/banila-co/clean-it-zero-original-attrosas-krmveida-putas/)
+
+## Licence
+
+MIT – skatīt [LICENSE](LICENSE).
